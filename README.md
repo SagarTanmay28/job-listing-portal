@@ -2,6 +2,8 @@
 
 A full-stack job listing portal connecting job seekers with employers.
 
+![image alt](https://github.com/SagarTanmay28/job-listing-portal/blob/main/image1.png?raw=true)
+
 ## Features
 - User authentication
 - Job search and filters
